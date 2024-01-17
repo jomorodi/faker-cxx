@@ -23,6 +23,7 @@ on:
   push:
     branches:
       - 'main'
+      - 'issue#452'
   pull_request:
   
   
